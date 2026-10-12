@@ -1,0 +1,6 @@
+{
+  "name": "VeloFetch – Free Online Video & Audio Downloader",
+  "description": "Download videos, audio tracks, playlists, thumbnails, and subtitles in up to 4K MP4, WebM, MP3, and WAV from YouTube, TikTok, Instagram, and 1,000+ platforms.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
